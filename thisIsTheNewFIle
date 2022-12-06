@@ -11,7 +11,7 @@ Cheersss!!!
 I have added some little more changes for you to pull. So, pull this to see it on your machine.
 
 #######
-Exercise
+Exercise During Session
 
 1. Clone the repository with the git clone command i.e git clone (the repo clone url0
 
@@ -35,3 +35,17 @@ Hint: Use git branch command
 Hint: Use git remote -v
 
 I'm making my own changes
+
+Exercise Practise
+
+1. Update this changes in your local machine.
+Hint: Use git pull
+
+2. Create a file in your local repository.
+Hint: Use touch
+
+3. Add the this statement "This feels good pal" to your new file
+Hint: use nano or any other text editor
+
+4. Let this file reflect in the remote repository.
+Hint: Check the previous exercise
