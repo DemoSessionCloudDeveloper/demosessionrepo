@@ -6,3 +6,29 @@ Added some more text to this file for update demostration.
 Let's confirm in the github remote repository.
 
 Cheersss!!!
+
+
+
+#######
+Exercise
+
+1. Clone the repository with the git clone command i.e git clone (the repo clone url0
+
+2. Make a change in the file name  thisIsTheNewfile. Write your name e.g dare omotosho 
+Hint: Use nano or any text editor you have.
+
+3. Add the changes.
+Hint: Use git add command
+
+4. Commit your changes
+Hint: Use git commit command
+
+5. Push your changes to the remote repository
+Hint: Use git push
+
+Bonus: 
+1. Check the branch you are in
+Hint: Use git branch command
+
+2. Check the url of the repository in your local machine
+Hint: Use git remote -v
